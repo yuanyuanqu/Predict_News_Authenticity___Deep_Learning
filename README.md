@@ -1,6 +1,6 @@
 # Predict_News_Authenticity___Deep_Learning_Project
 ## Project Description
-In this project, we plan to build a model to identify whether a piece of news is fake or real for the news industry, such as the New York Times. The News company can utilize this tool to quickly identify the reliability of their sources before showing to the public. 
+In this project, we plan to build a model to identify whether a piece of news is fake or real for the news industry, such as the New York Times. The News company can utilize this tool to quickly identify the reliability of the news sources before releasing them to the public. 
 
 This model could greatly reduce fact-checking hours and improve working efficiency. Moreover, it will help the company reduce man-hour cost and build a higher brand reputation by providing more accurate content.
 
